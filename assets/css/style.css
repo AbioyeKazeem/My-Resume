@@ -10,15 +10,20 @@
     padding-bottom: 35px;
     font-size: 20px;
     margin: 20px;
-    top: 18px;
+    top: 15px;
     text-align: justify;
     font-weight: lighter;
+    background-color: #025464;
+    color: white;
+    width: 67%;
+    height: 65px;
     
     
 }
 
 a{
     text-decoration: none;
+    color: white;
    
 }
 
@@ -30,9 +35,15 @@ ul > li {
 }
 
 footer{
-    background-color: #3f51b5;
+    background-color: #025464;
     justify-content:center; 
     display:flex; 
     color:white;
      padding:5px;
+     text-align:center;
+}
+
+body > div > div:nth-child(9) > ul > li:nth-child(1) > a, body > div > div:nth-child(9) > ul > li:nth-child(2) > a
+ {
+    color: black;
 }
