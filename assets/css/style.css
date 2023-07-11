@@ -1,0 +1,38 @@
+*{
+    font-family: 'Libre Baskerville', serif;
+}
+
+
+.biodata{
+    display: inline-block;
+    position: absolute;
+    padding-left:250px ;
+    padding-bottom: 35px;
+    font-size: 20px;
+    margin: 20px;
+    top: 18px;
+    text-align: justify;
+    font-weight: lighter;
+    
+    
+}
+
+a{
+    text-decoration: none;
+   
+}
+
+h2,h3, h4 {
+    margin-top: 1px;
+}
+ul > li {
+    margin-top: 1px;
+}
+
+footer{
+    background-color: #3f51b5;
+    justify-content:center; 
+    display:flex; 
+    color:white;
+     padding:5px;
+}
