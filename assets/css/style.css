@@ -32,6 +32,8 @@ h2,h3, h4 {
 }
 ul > li {
     margin-top: 1px;
+    
+
 }
 
 footer{
@@ -47,3 +49,10 @@ body > div > div:nth-child(9) > ul > li:nth-child(1) > a, body > div > div:nth-c
  {
     color: black;
 }
+
+img{
+   object-fit: cover;
+   border-radius: 50%;
+   border: 1px solid #025464;
+}
+
